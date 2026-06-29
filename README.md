@@ -66,3 +66,11 @@ python scraper.py
 **Ritharsana V**
 
 B.Tech Artificial Intelligence and Data Science (Second Year)
+
+## Internship Details
+
+* **Internship Provider:** CODTECH IT Solutions
+* **Intern ID:** CITS2960
+* **Project Title:** Web Scraper Project
+* **Technology Used:** Python, Requests, BeautifulSoup, CSV
+
